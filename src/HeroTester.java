@@ -11,8 +11,8 @@ public class HeroTester {
     private Hero hero2;
 
     public void setUp() {
-        hero1 = new Hero("Andrew Tate");
-        hero2 = new Hero("Taylor Swift");
+        hero1 = new Hero("Karl Marx");
+        hero2 = new Hero("Adam Smith");
     }
 
     public void tearDown() {
